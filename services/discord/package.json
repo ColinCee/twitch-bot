@@ -27,7 +27,7 @@
     "@discordjs/opus": "^0.4.0",
     "discord.js": "^12.5.1",
     "ffmpeg-static": "^4.2.7",
-    "ioredis": "^4.23.0",
+    "ioredis": "^4.23.1",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.33",
     "mz": "^2.7.0",
